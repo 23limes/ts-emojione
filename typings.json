@@ -1,0 +1,12 @@
+{
+  "name": "emojione",
+  "main": "lib/js/emojione.d.ts",
+  "homepage": "http://www.emojione.com",
+  "version": "2.2.2",
+  "globalDevDependencies": {
+    "node": "registry:env/node#6.0.0+20160610031852"
+  },
+  "devDependencies": {
+    "blue-tape": "registry:npm/blue-tape#0.2.0+20160614064951"
+  }
+}
